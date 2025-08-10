@@ -1,1 +1,1 @@
-100% stolen from: (christianselig/caldera-keyboard)[https://github.com/christianselig/caldera-keyboard]
+100% stolen from: [christianselig/caldera-keyboard](https://github.com/christianselig/caldera-keyboard)
